@@ -1,0 +1,16 @@
+The traditional Hello world program can be written in Java as:
+
+public class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); // Prints the string to the console.
+    }
+}
+
+And other example:
+
+public class ComputeExpression {
+ 
+    public static void main(String[] args) {
+        System.out.println((10.5 + 2 * 3) / (45 - 3.5));
+    }
+}
