@@ -1,0 +1,6 @@
+Applet
+
+Java applets were programs that were embedded 
+in other applications, typically in a Web page 
+displayed in a web browser. The Java applet API 
+is now deprecated since Java 8 in 2017.
