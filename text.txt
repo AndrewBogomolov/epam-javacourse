@@ -17,7 +17,9 @@ client-server web applications, with a reported 9 million developers.
 
 Versions
 Main article: Java version history
-As of March 2020, Java 8 and 11 are supported as Long Term Support (LTS) versions, and one later non-LTS version is supported. Major release versions of Java, along with their release dates:
+As of March 2020, Java 8 and 11 are supported as Long Term Support (LTS)
+versions, and one later non-LTS version is supported. 
+Major release versions of Java, along with their release dates:
 
 JDK 1.0 (January 23, 1996)
 JDK 1.1 (February 19, 1996)
@@ -34,3 +36,26 @@ Java SE 11 (September 25, 2018)
 Java SE 12 (March 19, 2019)
 Java SE 13 (September 17, 2019)
 Java SE 14 (March 17, 2020)
+
+Editions
+
+Sun has defined and supports four editions of Java 
+targeting different application environments and segmented 
+many of its APIs so that they belong to one of the platforms. 
+The platforms are:
+
+Java Card for smart-cards.
+Java Platform, Micro Edition (Java ME) – targeting environments 
+with limited resources.
+Java Platform, Standard Edition (Java SE) – targeting workstation 
+environments
+Java Platform, Enterprise Edition (Java EE) – targeting large 
+distributed enterprise or Internet environments.
+The classes in the Java APIs are organized into separate groups 
+called packages. Each package contains a set of related interfaces,
+classes, and exceptions. Refer to the separate platforms 
+for a description of the packages available.
+
+Sun also provided an edition called Personal Java 
+that has been superseded by later, standards-based Java ME 
+configuration-profile pairings.
