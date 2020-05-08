@@ -1,0 +1,15 @@
+Servlet
+
+Java servlet technology provides Web developers with a simple, 
+consistent mechanism for extending the functionality of a Web
+ server and for accessing existing business systems.
+ Servlets are server-side Java EE components that generate
+ responses (typically HTML pages) to requests (typically HTTP requests) 
+from clients.
+
+The Java servlet API has to some extent been superseded by two 
+standard Java technologies for web services:
+
+the Java API for RESTful Web Services (JAX-RS 2.0)
+useful for AJAX, JSON and REST services, and
+the Java API for XML Web Services (JAX-WS) useful for SOAP Web Services.
