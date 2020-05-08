@@ -1,4 +1,4 @@
-Java is a general-purpose programming 
+﻿Java is a general-purpose programming 
 that is class-based, object-oriented, 
 and designed to have as few implementation
 dependencies as possible. It is intended 
@@ -42,19 +42,5 @@ Java SE 13 (September 17, 2019)
 
 Java SE 14 (March 17, 2020)
 
-Editions
 
-Sun has defined and supports four editions of Java 
-targeting different application environments and segmented 
-many of its APIs so that they belong to one of the platforms. 
-The platforms are:
-
-Java Card for smart-cards.
-Java Platform, Micro Edition (Java ME) – targeting environments 
-with limited resources.
-Java Platform, Standard Edition (Java SE) – targeting workstation 
-environments.
-Java Platform, Enterprise Edition (Java EE) – targeting large 
-distributed enterprise or Internet environments.
-Java SE 14 (March 17, 2020)
 
